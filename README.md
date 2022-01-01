@@ -1,5 +1,8 @@
 # Termux-Hacking
 
+   "FB Cloning Commands Here"
+
+
 $> pkg update
 
 $> pkg upgrade
@@ -24,3 +27,5 @@ $> python2 crack.py
 
 
 "Copy command and paste your terminal...and injoy"
+
+            'get more commands comment me' 
